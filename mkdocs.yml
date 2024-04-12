@@ -11,8 +11,8 @@ site_url: https://docs.magistrala.abstractmachines.fr
 edit_uri: ""
 theme:
   name: material
-  logo: img/logo.svg
-  favicon: img/logo.svg
+  logo: img/logo.png
+  favicon: img/favicon.png
   icon:
     repo: fontawesome/brands/github
 
